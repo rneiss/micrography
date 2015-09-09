@@ -9,13 +9,13 @@ Uses the [Sefaria API](https://github.com/blockspeiser/Sefaria-Project) for find
 ### Examples ###
 
 ####Genesis 1: Earth####
-![Genesis 1 Earth](http://www.russelneiss.com/micrography/genesis1.png)
+![Genesis 1](http://www.russelneiss.com/micrography/genesis1.png)
 
 ####Psalm 137: Israeli Flag####
-![Genesis 1 Earth](http://www.russelneiss.com/micrography/psalm137.png)
+![Psalm 137](http://www.russelneiss.com/micrography/psalm137.png)
 
 ####Book of Jonah: Pieter Lastman Jonah and the Whale painting####
-![Genesis 1 Earth](http://www.russelneiss.com/micrography/Jonah.png)
+![Jonah 1-4](http://www.russelneiss.com/micrography/Jonah.png)
 
 ### Next steps ###
 * Figure out if it's possible to speed up process. It's slower than I'd like at this juncture.
